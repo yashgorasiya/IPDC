@@ -3,12 +3,12 @@ This Project for Educational perpose to learn and deleiver Ux/Ui
 
 => **Features**
 
-1. Simplyfiew UI in RecyclerView.
-2. Notes Section In RecyclerView. 
-3. Integretred Exo-Player batter Video Viewing Experiencce. 
-4. Add Playback Speed Controlls. 
-5. Directly Play Videos On MxPlayer By Clicking On Mx-Logo. 
-6. Save Download Videos To Gallery (Distributable .mp4).
+ 1. Simplyfiew UI in RecyclerView.
+ 2. Notes Section In RecyclerView. 
+ 3. Integretred Exo-Player batter Video Viewing Experiencce. 
+ 4. Add Playback Speed Controlls. 
+ 5. Directly Play Videos On MxPlayer By Clicking On Mx-Logo. 
+ 6. Save Download Videos To Gallery (Distributable .mp4).
  
 ---------**$ By yashGorasiya $**---------
 
@@ -20,7 +20,7 @@ This Project for Educational perpose to learn and deleiver Ux/Ui
 
 
 
-![Screenshot_2021-04-08-10-52-40-71_875da28b4188c59b791e339ec776941a](https://user-images.githubusercontent.com/51980988/113973657-48282080-985a-11eb-815e-c17bec03daa2.jpg)![Screenshot_2021-04-08-10-52-44-89_875da28b4188c59b791e339ec776941a](https://user-images.githubusercontent.com/51980988/113973691-58400000-985a-11eb-9de5-9e3f91ce13b3.jpg)
+![Screenshot_2021-04-08-10-52-40-71_875da28b4188c59b791e339ec776941a](https://user-images.githubusercontent.com/51980988/113973657-48282080-985a-11eb-815e-c17bec03daa2.jpg) ![Screenshot_2021-04-08-10-52-44-89_875da28b4188c59b791e339ec776941a](https://user-images.githubusercontent.com/51980988/113973691-58400000-985a-11eb-9de5-9e3f91ce13b3.jpg)
 
 
 
