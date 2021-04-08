@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">IPDC</string>
+    <string name="download_button_home">download_button_home</string>
+    <string name="size">size</string>
+    <string name="thumbnail">Thumbnail</string>
+    <string name="mx_redirect">Mx_redirect</string>
+    <string name="description">description</string>
+    <string name="title_activity_main_tab">MainActivityTab</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ownner">BY YG</string>
+    <string name="featurs">No need logIn to use this app</string>
+    <string name="features1">Distributable MP4 Download</string>
+    <string name="features2">Tap On Mx Logo to Play Videos On MxPlayer</string>
+    <string name="features3">All Videos are Highly Compressed</string>
+    <string name="features4">Hole Chapter in One Video</string>
+    <string name="features5">Stream Videos Online</string>
+    <string name="features">Features</string>
+    <string name="waring">\"This only for providing better user experience to Users not to violate any IPDC\'s privacy policy\"</string>
+    <string name="home">HOME</string>
+    <string name="notes">Notes</string>
+    <string name="why_this">Why This</string>
+    <string name="search">search</string>
+    <string name="logosplashscreen">logoSplashscreen</string>
+</resources>

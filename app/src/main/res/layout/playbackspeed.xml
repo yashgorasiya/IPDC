@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/speedPOP"
+    android:layout_width="240dp"
+    android:layout_height="150dp"
+    android:layout_margin="8dp"
+    android:background="@color/speed"
+    android:elevation="10dp"
+    app:cardCornerRadius="10dp"
+    tools:targetApi="lollipop">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center">
+            <TextView
+                android:id="@+id/speedOne"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1.0x"
+                android:padding="8dp"
+                android:layout_gravity="center"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:id="@+id/speedTwo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1.2x"
+                android:padding="8dp"
+                android:layout_gravity="center"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:id="@+id/speedThree"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1.4x"
+                android:padding="8dp"
+                android:layout_gravity="center"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                />
+
+            <TextView
+                android:id="@+id/speedFour"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1.6x"
+                android:padding="8dp"
+                android:layout_gravity="center"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                />
+
+            <TextView
+                android:id="@+id/speedFive"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1.8x"
+                android:padding="8dp"
+                android:layout_gravity="center"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                />
+            <TextView
+                android:id="@+id/speedsix"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2.0x"
+                android:padding="8dp"
+                android:layout_gravity="center"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                />
+
+        </LinearLayout>
+    </ScrollView>
+</androidx.cardview.widget.CardView>
