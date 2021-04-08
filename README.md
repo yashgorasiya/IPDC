@@ -1,5 +1,5 @@
 # IPDC
-This Project for Educational perpose to learn and deleiver Ux/Ui
+This Project for Educational perpose to learn and deliver batter Ux/Ui
 
 **Features**
 
