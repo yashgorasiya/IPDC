@@ -1,7 +1,7 @@
 # IPDC
 This Project for Educational perpose to learn and deleiver Ux/Ui
 
-=> **Features**
+**Features**
 
  1. Simplyfiew UI in RecyclerView.
  2. Notes Section In RecyclerView. 
@@ -12,7 +12,7 @@ This Project for Educational perpose to learn and deleiver Ux/Ui
  
 ---------**$ By yashGorasiya $**---------
 
-=> **ScreenShots**
+**ScreenShots**
 
 ![Screenshot_2021-04-08-10-51-24-11_875da28b4188c59b791e339ec776941a](https://user-images.githubusercontent.com/51980988/113973587-2f1f6f80-985a-11eb-8fb4-0c337c4d5f4f.jpg) ![Screenshot_2021-04-08-10-51-27-76_875da28b4188c59b791e339ec776941a](https://user-images.githubusercontent.com/51980988/113973617-38104100-985a-11eb-996c-ea736b352445.jpg)
 
